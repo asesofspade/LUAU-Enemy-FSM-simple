@@ -1,4 +1,3 @@
-@@ -0,0 +1,214 @@
 local enemyfsm = {}
 local Players = game:GetService("Players")
 local Debris = game:GetService("Debris")
